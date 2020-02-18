@@ -1,0 +1,13 @@
+1. one drive theke kono file download korle download progress er kono upadate hoyna. download surur r download hoar por 0% thake,jodio import e download
+   progress thik ache
+2. online theke music start kore player view open holo, dismiss korlam ei view, music running thakaobosthay sei view open kore dismiss korlam. ekhn device 
+   lock korlam, device open korle wallpaper e OS player asar kotha but asenai, jodio song is running
+   ei issue generated hole device lock thakle next music r play hoyna. abar 1st time play kore player view dismiss kore device lock korle porer song e jayna.
+   jodio ei issue sob somoy paoa jayna but paoa jay must -solved
+3. online theke music chalu kore landscape e data connection off kroe dile app hang hoe jay but song cholte thake & ek somoy app crash kore
+
+4. online theke music next or previous korar time e landscape to portrait or vice versa korle & same time data off kore dile design venge jay
+5. video play korle lock screen e OS player thake, seta thakbe kina jante hobe. eita ager app e silo
+6. online theke musisc play kore landscape theke background e gie device portrait kore app e dhukle vice versa korle app hang hoe jay & ek somoy app crash 
+   kore landscape to portrait or vice versa korle -solved
+7. net na thakle play button play/pause kora jay, no net er alert bosate hobe

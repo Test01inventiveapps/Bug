@@ -1,0 +1,2 @@
+=> extra_column1 = number of scans (QR code, bar code)
+=> extra_column5 = number of creating qr code

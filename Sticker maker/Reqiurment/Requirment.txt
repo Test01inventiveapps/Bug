@@ -1,0 +1,3 @@
+
+extra colmn 1 = sticker pack create limit
+extra colmn 3 = sticker pack share limit

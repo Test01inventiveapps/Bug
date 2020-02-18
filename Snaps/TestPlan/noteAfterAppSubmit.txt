@@ -1,0 +1,13 @@
+this app has some bugs which is not fixed. some bugs are given in bitbucket.some bugs are written in note. still it 
+has more bugs which is not found i guese 
+
+subscription design is tested
+subscribe is tested
+server value is tested
+blocklist country server value tested
+subscription expired by pressign restore button tested
+subscription expired automatocally tested 
+no review after subscribed/force review tetsed
+app is subscribed after subscribed/force review
+OS review after 24 hours of purchase tested
+

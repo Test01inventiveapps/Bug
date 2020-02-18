@@ -1,0 +1,25 @@
+1. select media screen= background color change to #001E3B -Done
+2. photo select count no. er size boro hote hobe more than 50% -Done
+3. edit screen e box selection color & font color will be #5F98FD -Done
+4. settings er font change choto korte hobe -Done
+
+bug:
+1. home screen e subs button e subs page er against e rev asena - ja ase tai
+2. music button select thakle oi screen er onno kono screen theke asle transaction select hoe jay -Done
+3. rec kora obosthay slide show sesh hoe gele r rec cholte thakle slide show abar chalu korle tar default 
+   song ta bajte thake -Done
+4. slide  show save korar por camera roll er save korar por sound play hoyna, sound barale -invalid
+play hoy
+5. reorder page swipe kore dismiss hoy, off korte hobe -ja ase tai
+
+
+note of relaese day:
+1. photo pick e gie, camera theke firle crash korto - fixed
+2. photo pick onno tab theke photo tulle tula photo all photos e add holeo tab agertai thakto -fixed
+3. photo pick e photo select kore camera te gie fire asle sob dis seslect hoe jeto -fixed
+4. photo pick e kisu photo select kore, seigulo abr delete button die delete kore abr 1 or more pic nie edit
+   screen e gele delete koragulo sob edit screene chole ase- fixed
+5. reorder theke photo pick open korle swipe kore ektu niche namie abr chere dile loading chole asto - fixed
+6. purchase test hoise, risihi vai 3 ta button er test korte diesilo bakigulo identifier thik silona 
+8. server value full check hoise, no bug found
+9. purcher  expired successful silo

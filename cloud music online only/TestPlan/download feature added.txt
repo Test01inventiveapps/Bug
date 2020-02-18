@@ -1,0 +1,6 @@
+1. download from all screen is tested, some bugs found, those are fixed
+2. downloaded files are deleted and found those files are again downloadable
+3. downloaded songs can be added in playlist
+4. downloaded songs can be played in offline
+5. timer is tested by downloaded file from all posible screen, no bug found
+6. downloaded songs are played in background/offscreen mood, no bug found

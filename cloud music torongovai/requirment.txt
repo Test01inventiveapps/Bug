@@ -1,0 +1,17 @@
+1. if review condition is true
+   
+   extra column6 = playlist limit is crossed & review will be showed 
+   extra column7 = download limit is crossed & review will be showed 
+   review will be appeared in fanburst (not all category)
+   
+2. if review condition is false
+   no review will be showed anywhere if device is in blocklist country
+   review will not be appeared in fanburst, subs page will be appeared here (not all category).
+   extra column6 = playlist limit is crossed & review will not be showed, user can add unlimited playlist
+   extra column7 = download limit is crossed & review will not be showed, user can download unlimited song/video
+
+3. no review/subs page and subs home after subscribed 
+4. if review is given by user, app will be subscribed
+5. after expired the subscription, 1.subs home will be showed 
+                                   2.subs page in fanburst (not all category) will be showed 
+

@@ -1,0 +1,17 @@
+1.subs home will be always 0
+2.subs home will be always 0
+
+3.if show review condition is true, review will show:
+
+ a.click any country server(without free country server)>subs page will appear>
+ click cross button> review will appear.
+ b.click free country server or connection button>review will appear.
+ c.click tor button from home screen>subs page will appear if unsubscribed>click
+ cross> review will be showed.
+
+4. after force review is given> app will be subscribed.
+
+5. no cross button on subs page according to extra clmn 4 = 1
+
+6. in blocklist country free session time is = 525600 min
+

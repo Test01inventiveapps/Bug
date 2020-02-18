@@ -1,0 +1,13 @@
+1. ionflake - GIF maker = app is crashed when pick any photos 
+            - live wallpaper = after nature category, the rest of the live photo collections are not same with their category name
+            - logo maker = OS share screen cannot be dismissed 
+            - qr code = OS share screen cannot be dismissed 
+            - video maker = 1.OS share screen cannot be dismissed. 2.when device vibration switch is on, video sound gets off
+            - voice changer = 1.OS share screen cannot be dismissed 2. 1st time voice recording, tapbar is hide with banner ad, user cannot use any fuctions of
+              tapbar
+            - vr(jurassic park) = app is crashed when play any video
+            - vr(green icon) = terms & privacy policy web link are not ok
+
+2. inventive apps - password manager = user is stuck in primary password screen after installing the app
+                  - night mood browser = user is stuck in primary password screen after installing the app
+                  - PDF scanner = 1.OS share screen cannot be dismissed  2.filter are not working in edit screen 3.app cannot be purchased 

@@ -1,0 +1,9 @@
+rev_unlock & isApprv = 1 > force review against cross button of subs page
+rev_gopro = 1
+E C 2 = 1 and isApprv=1 subs button will change to "start free trial"
+E C 2 or isApprv=0 > subs button will change to "subscribe now"
+E C 4 = 2nd subs page after 1st page in share screen
+E C 6 = limit of free save and share
+
+
+

@@ -1,0 +1,5 @@
+1. facebook ad will come against cross button of subs home, subs page from setings and in edit screen
+if Instestitial: facebook. if Instestitial: something else, no ad will come -tested
+2. some codes are removed from this app, side effect may occure so all buttons of this app is pressed and
+verified if all buttons are wotking according to their actoins including subs page -tested
+3. crash found on video camera button of video picker screen - need to test after solve

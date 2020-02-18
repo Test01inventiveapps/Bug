@@ -1,0 +1,5 @@
+1. select option to delete
+2. restore option to camera roll
+3. system and app volume addjustment should be there at the same time, only system volume should add.
+4. bug: video paly kore bacground or sleep mood theke asle video ses hoe pause hoejay but play button click korle kisui hoyna
+5. mail address e access code pathanor por user k aert message e spam e chk korar kotha ta bola uchit

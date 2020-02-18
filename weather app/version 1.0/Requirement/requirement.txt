@@ -1,0 +1,6 @@
+1. extra column 1 = limit of location adding
+2. extra column 4 = no cross button on subs home
+3. extra column 4 = no cross button on subs screen
+4. rev_unlock = 1 & isApprv = 1 > force review against subs screen cross button
+5. OS rev will be showed after 24 hours of intalling
+6. subs page comes against the 3rd weather data of weekly forecast

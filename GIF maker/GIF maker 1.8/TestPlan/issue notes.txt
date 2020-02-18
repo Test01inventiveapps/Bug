@@ -1,0 +1,22 @@
+1. share screen e live photo save korar por display te video zoom ta besi hoe jay, eta ki emn thakbe
+naki change hoe?
+2. ios 13 eo app theke background e gie abr app e asle app notun kore open hoy, dekhte hobe
+3. kono effect(speed,filter etc) dear por sei effct option abr open kore cross button click korle GIF er effect default hoe
+   jay. etar kaj dev korche, fix hole dekte hobe
+4. share screen e save click korar por loading thakavosthay background e gia forground e asle app 
+   crash kore
+5. high quality theke save kore background e gia forground e  eshe abr medium quality theke save kore
+   background e gia forground asar por share screen e gif play stop hoe jay, click korle r play hoyna
+   issue ta ber korte hobe
+7. screen  shot nie GIF save korar por GIF nosto hoe jay
+10. gif save korar por water mark choto-boro hocche 
+11. crop kora video/photo theke j GIF hoy, seta theke ekta image create hoy 
+12. saved GIF gulo jokhon image picker theke image format e nie share screen porjonto jai, seikhane
+    image gulo small hoe jay
+13. saved GIF screen e save howa GIF er sticker, text sob e stretced 
+14. video trimmer scale in ipad clear na 
+15.  share screen of saved GIF feature option er sob button gulo check korte hobe
+16. 118 no issue ta fix hoise but 1st time share screen e jaoar por GIF play hote thakabosthay 
+    click korle GIF pause hoyna, 2nd time theke thik hoy. continiues click korle video pause/play
+    thik thakleo button show korte prblm kore
+17. crop option e kono default frame set korar por rotation korte thakle GIF zoom hote tyhake

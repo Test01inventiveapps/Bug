@@ -1,0 +1,46 @@
+11/2/18: 1st build: 
+1. iphone X: onboadrding info- checked
+             cross button- checked
+             weekly button- checked
+             monthly button- checked
+             yearly button- checked
+             restore button- checked
+             terms button- checked
+             privacy policy- checked
+             scroll down message- checked
+             subs info- checked
+             subs page and its all button pressed and check the action- checked
+
+             weekly and yearly button is used to subscribe the app. sandbox id is sandbox@iapps.33 
+                     
+
+2. ipad:     onboadrding info- checked
+             cross button- checked
+             weekly button- checked
+             monthly button- checked
+             yearly button- checked
+             restore button- checked
+             terms button- checked
+             privacy policy- checked
+             scroll down message- checked
+             subs info- checked
+             subs page and its all button pressed and check the action- checked
+
+             monthly button is used to subscribe the app. sandbox id is sandbox@iapps.34
+
+3. ipod:     onboadrding info- checked
+             cross button- checked
+             weekly button- 
+             monthly button- 
+             restore button- 
+             terms button- checked
+             privacy policy- checked
+             scroll down message- checked
+             subs info- checked
+             subs page and its all button pressed and check the action- checked
+
+ subscription screen is changed to webview subs info scroll down leter.
+
+
+
+

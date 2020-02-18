@@ -1,0 +1,13 @@
+=> extra_column4 = 0 -> subs home with cross button
+=> extra_column4 = 1 subs home without cross button
+=> extra_column3 = limit of free call recording //this will be activated after force review 
+=> extra_column6 = limit of free recording play //this will be activated after force review 
+=> after free limit is over, subs page comes
+=> extra_column2 = 0 -> 1st server than local call
+
+
+=> review condition true = force review will be showed against call recorder button and saved recording
+=> review condition false = subs page will be showed against call recorder button and saved recording
+=> OS review will be showed after finishing call recording
+
+=> push notifiation comes after push notification

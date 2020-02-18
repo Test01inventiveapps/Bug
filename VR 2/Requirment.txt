@@ -1,0 +1,14 @@
+if force review condition is true:
+  1. show force review in player screen after the limit of watching video is over (extra colunm 7)
+  2. show force review when user click on video after the limit of watching video is over (extra colunm 7)
+  3. show force review in playlist screen after the limit of add plylist is over (extra colunm 6)
+  4. no force review in blocklist country
+  5. no force review after rating from settings
+
+subs screen:
+    1. if the limit of watching video is over (extra colunm 7), open subs screen after dismissing player screen 
+    2. after the limit of watching video is over (extra colunm 7), open subs screen when user click on video 
+    3. after the limit of add playlist is over (extra colunm 6), open subs screen
+ 
+OS review:
+    1. show OS review after 24 hour of installation app. OS review will be showed if user subscribe the app.

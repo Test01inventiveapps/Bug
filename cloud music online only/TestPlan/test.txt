@@ -1,0 +1,12 @@
+1. this app is tested in darkmode and light mode
+2. all kinds of server test is done. no issue is found
+3. purchase is tested, all is ok. monthly & restore purcashe video is up in driver, weekly is also tested but no video record, but
+   purchase was successful
+4. play timer set kore, timer sesh hora por song jekahne sesh hobe sekhanei pause hobe, user sekhan theke song play,next,previous korte 
+   parbe. ei test ta successfully hoeche
+5. some code is changed from developer in player screen, dev said there may generate some bug.
+   I did not test this properly as i did not found build device available. so far i tested, no
+   bug found
+6. extra column 7 is tested by downloading 1 by 1, by downloading at a time multiple song(this way if all download is 
+   complete thene subs page comes). did not test throughly. did not test how behave when app is 
+   purchased

@@ -1,0 +1,98 @@
+1. 5 photo:
+   bugs: *music ekhono sync hoynai video er sathe- solved 
+         *breakout theme e crash kore -solved
+         *breakeout theme e pic repeat hoy
+         *video slider  thik moto kaj korena, slider komano/barano hole video stop hoy but button dekhayna.-solved
+         *slider dhore samne-pichone nile video pause hoe jay, ref app e play hoe jay. -solved 
+         *music manually add kore video play obosthay share screen e gie save complete er por crash kore, music sync er karone 
+          hote pare. abr music add/remove e kono change na kore same test case e app crash kore. duration change kore same test
+          case e crash kore -solved
+         *classsic er motive r innocence same theme. -leave as it is(confirmed)
+         *fun er sob category te theme r default j 5 ta theme ache -leave as it is(confirmed)
+         *B&W er 80s,damaged,B&W5th,baby shower(ocassion) same theme. -leave as it is(confirmed)
+         *ocassion er anniversary r playtime same theme. -leave as it is(confirmed)
+         *video te effect gulo ekhn sob e theme er name onujai asena, server theke just 2 ta effetc dea
+         ache, rishi vai said, pore thik hobe -solved
+         * effect category te "effect" e gie any theme e click korle crash kore and "occasion" e sob theme prottekbr download
+         hoy.- effect category removed 
+         *music scale change korle video cholte thake but paly/pause button chole ase, button e press korle video er speed 
+         bere jay -solved
+         *theme er default music ekhn 1 tai dea ache, app up er agey update hobe, chek korte hobe- solved 
+         *video slider increase/decrease korle app crash kore but certain scenario paoa jacchena coz crash always hocchena  
+         *projectlist e thumbnail e kono efect thakena
+         *existing video theke effect screen e gie change kore asle ager video er 1 ta pic er 1sec er jonne theke jay 
+         then new video run hoy- porer version e thik hobe
+         *projectlist theke kono project select kore details screen gie details screen loading er somoy app bacground e gele 
+          or edit screen e gele video er speed bere jay & video pause button dekhay but video cholte thake. 
+         jkono theme effect e gie 1st theme e j song run hoy onno theme theke change hoye abr eita te asle song change 
+          hoe jay. ei bug onno category teo thakte pare- solved 
+         *kisu kisu theme category (B&W,occasion) er 1st theme er image blank thake -solved
+         *ipad e design vangse, check korte hobe -solved
+         *ipad ekta ceretain pic e video damaege hoy, chk korte hobe
+         *details screen e uper right side e save button ache but design e nai. ki hobe jante hobe -solved
+         *subs info,terms,privacy policy kontai thiknai.
+         *free save er limit details screen e saveHD,savetolibrary,share e count hoy kina dekte hobe -solved
+         *details screen saveHD and save to library te free limit count holeo share button e count hoyna. limit over hoar 
+          por o subs page asena jodio baki 2 ta button e ase. onno screen theke abr ei screen asle share button e subs page
+          ase. -solved, discussed with rishivai, he solved my confussion
+         *subscribe er por see all e thumbnail e pro likha thake
+         *extra column 5 kaj korena -solved
+         *kisu pic nie new project create korlam,suppose edit screen e aslam with B&W theme e, now change to other theme,
+          B&W effect chhole gelo r selected theme e play hote thaklo,home screen e gie dekhlam project er thumbnail sei B&W
+          but ber hoar somoy silo onno theme selected, detials & edit screen e gie dekhlam oi slected theme e play hocche -solved
+         *ekta video te 1st time j theme song selected thake setai pore project list theke edit screen e gele paoa jay & sei song e 
+          sob theme er jonne play hoy but ctaegory theke onno thumbnail effect gele song change hoe jay & sob theme e same soong play
+          hote thake -solved
+         *suppose 5ta project ase projectlist e,prottekta theme 1st er ta selected,ekhn5ta theke jkono 1 ta change korle baki hular o same
+          change hobe with same theme. 5 tar modde konota jodi 1st theme select na thake then oitate kono effect porbena -solved
+         *force review er details e kono likha tahkena, purai blank
+         *projectlist theke kono project select kore details screen gie details screen loading er somoy edit screen e gie video loading
+          thaka obosthay theme change korte gele crash kore.-solved
+         *projectlist theke kono project select kore details screen gie details screen loading er somoy onno jekono screen e gele sei loading
+          thaka video ta play hoe jay -solved
+         *see all e effect theme e crash kore -effect removed -solved
+         *independene day er kono effect nai from occassion
+         *see all theke kono effect thumbnail download er somoy app background e gele then download complete hole forground e asar por edit
+          screen e video play holeo music thakena, music scalling e gie salling change korle music paoa jay or onno kono screen theke ekhane
+          asle music paoa jay
+         *force review er no thanks er against e ad asena-solved
+         *kothao ad asena -solved
+         *all effects e video download hoar por ekta category theke arekta category te change er somoy ager kisu video thumbnail play hote thake. sob
+          original video thubnail paoar por check korte hobe issue ta thakekina   
+         *dessolve=motivate=nightout,80s movie=birthday
+         *app uthar agey hothat app er sob theme e music nai hoe jay. pore seta generate kora jacchena
+         *itunes e permission allow/disallow korle itunes er button kaj korena, app fele die asle kaj kore -solved
+         * recording e permission disallow korle recording crash kore , app fele die asle kaj kore -solved
+         *app purchase kora jacchena, sob button e na, niche extra column 2 er sob value kora ache:
+
+case6: notyet selected: purchase identifier was invalid
+       notyet not selected: 
+case5: notyet selected: price doesnot match
+       notyet not selected: purchase identifier not failed
+case4: notyet selected: purchase identifier was invalid
+       notyet not selected: price doesnot match
+case3: purchase identifier was invalid
+case2: price doesnot match
+case1: purchase identifier was invalid
+
+         *iOS 13 e select image screen theke app cameray pic tull use photo click korle select image theke ber hoe jay(ios 13 e test ta last din
+          18/10/19 e hoise,purchase kora jaini ) note: ios13 e check er somoy All effect screen e ek e thumbnail ache sobkhane
+         *for ios 13: ekta video te 1st time j theme song selected thake setai pore project list theke edit screen e gele paoa jay & sei song e 
+          sob theme er jonne play hoy but ctaegory theke onno thumbnail effect gele song change hoe jay & sob theme e same song play
+          hote thake -solved
+         *iOS 13 e black mood e test hoise, light mood e full test hote pareni due to iOS 13 device is only one & the device is unavailable
+         
+
+
+
+
+
+
+
+
+
+
+
+
+
+

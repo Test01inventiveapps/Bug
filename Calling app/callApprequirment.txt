@@ -1,0 +1,13 @@
+1. if force review condition is true:
+
+    1. force review is showed after conversation is disconneted from caller or receiver end in both incoming and outgoing call. 
+    2. in outgoing call, if the call rings and caller or receiver cut the call then force review will be showed.
+    3. force review is showed after new number buying is succesfull
+    4. coin added after force rev is given 
+   
+   
+2. if force review condition is false
+   1. no review will be showed anywhere if device is in blocklist country 
+   2. OS review is showed (where force rev is supposed to show) after buy new number is succesfull
+   3. no force review after rate form settings
+

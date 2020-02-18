@@ -1,0 +1,9 @@
+ => extra_column1 = Jamendo App Id
+ => extra_column2 = Play Limit and after play limit is over, subs page against the hardcoded free thumbnail of online -done
+ => extra_column3 = Search Limit, subs page -done
+ => extra_column4 = subshome with/out cross button -done
+ => extra_column5 = subscription with/out done button (other screen)-done
+ => extra_column6 = playlist limit (PLAYLIST_LIMIT) force review(if condiation is true) -done
+ => extra_column7 = download limit (DW_LIMIT) force review(if force review condiation is true)/subs page comes(if force review condiation is false) -pending for decision
+ => if review condition is true, review will be appeared in online music(fanbust) (only pro category),if review condition is false, no review/subs page will be 
+    appeared in fanburst untill (all category) extra_column2 is over. after extra_column2 is over subs page will come -done

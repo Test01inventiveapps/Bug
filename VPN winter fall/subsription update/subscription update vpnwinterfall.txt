@@ -1,0 +1,62 @@
+4/2/18: 1st build: 
+1. iphone X: onboadrding info- checked
+             cross button- 
+             weekly button- 
+             monthly button- 
+             yearly button- 
+             restore button- 
+             terms button- 
+             privacy policy- 
+             
+           
+
+2. ipad:     onboadrding info- 
+             cross button- 
+             weekly button- 
+             monthly button- 
+             yearly button- 
+             restore button- 
+             terms button- 
+             privacy policy- 
+
+            
+3. ipod:     onboadrding info- checked
+             cross button- checked
+             weekly button- not required but pressed the button only confirmed from risivai, it says "cannot connect to itunes"
+
+             monthly button- not required but pressed the button only, it says "cannot connect to itunes"
+             yearly button- not required but pressed the button only, it says "cannot connect to itunes"
+             restore button- not required but pressed the button only, it says "cannot connect to itunes"
+             terms button- checked
+             privacy policy- checked
+
+2. iphone 6s:onboadrding info- checked
+             cross button-  not required but pressed the button only
+             weekly button- not required but pressed the button only confirmed from risivai
+             monthly button- not required but pressed the button only confirmed from risivai
+             yearly button- not required but pressed the button only confirmed from risivai
+             restore button- not required but pressed the button only confirmed from risivai
+             terms button- checked
+             privacy policy- checked
+
+17/2/19:
+
+1. iphone X:review in all condition -checked
+            sub home in all condition -checked
+            free session strats and expired -checked
+        
+            weekly button is purchased by sandbox@iapps.27
+
+
+2. iphone 5s:review in all condition -checked
+             sub home in all condition -checked
+             free session strats and expired -checked
+
+             free trial is purchased by sandbox@iapps.26
+             -expired successfully, subs home is showed in true condition 
+             yearly button is purchased by sandbox@iapps.26
+             -expired successfully, subs home is showed in true condition
+
+
+
+

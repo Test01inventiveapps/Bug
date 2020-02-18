@@ -1,0 +1,22 @@
+SANDBOX USER ID
+
+sandbox.ia@email.com
+
+sandbox.ju@email.com
+
+sandbox.ju@no.com
+
+upgrade.ju@gmail.com
+
+tor.ju@subs.com
+
+tor.ju@nosubs.com
+
+sandbox.ju@opu.com
+
+sandbox.ju@subs.com
+
+
+
+SANDBOX USER PASSWORD
+Password5$

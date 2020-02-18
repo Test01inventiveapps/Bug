@@ -1,0 +1,28 @@
+3/2/18: 1st build: 
+1. iphone X: onboadrding info- checked
+             cross button- checked
+             weekly button- checked
+             monthly button- checked
+             restore button- checked
+             terms button- checked
+             privacy policy- checked
+             
+             weekly button is used here to subscribe by sandbox@iapp.33
+             - expired successfully
+
+             free trial button is used here to subscribe by sandbox@iapp.33
+             - expired successfully
+
+2. ipad:     onboadrding info- checked
+             cross button- checked
+             weekly button- checked
+             monthly button- checked
+             yearly button- checked
+             restore button- checked
+             terms button- checked
+             privacy policy- checked
+
+
+
+
+

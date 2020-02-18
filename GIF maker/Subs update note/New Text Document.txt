@@ -1,0 +1,11 @@
+30/1/18:
+GIF maker- got 1st build from DEV at 6.20 pm. asked me to check the button actions.
+1. subscribe button - checked 
+2. restore button - checked 
+3. terms of service (safari web view) -checked 
+4. privacy policy (safari web view) -checked 
+5. cross button -checked 
+6. subs is subscribed from save & share screen with sandbox@iapps42.com in iphone 5s. the build is 2nd
+
+
+

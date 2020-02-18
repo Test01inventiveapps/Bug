@@ -1,0 +1,40 @@
+high quality:
+1. instagram gif save:
+
+dimension: 480x480
+size:32kb
+
+2. original photo:
+
+pic 1 dimension:800x600
+size:68.2
+pic 2 dimension:800x600
+size:69.5
+pic 3 dimension:800x600
+size:67.2
+
+3.save gif:
+
+dimension:960x720
+size:282kb
+
+low quality:
+
+1. instagram gif save:
+
+dimension: 480x480
+size:32kb
+
+2. original photo:
+
+pic 1 dimension:800x600
+size:68.2
+pic 2 dimension:800x600
+size:69.5
+pic 3 dimension:800x600
+size:67.2
+
+3. save gif:
+
+dimension:960x720
+size:287kb

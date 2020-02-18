@@ -1,0 +1,7 @@
+1. review in home screen go pro button
+2. full screen ad in the number of new tab taken (ad frequency = value)
+4. full screen ad when come out from settings 
+
+
+
+bug: touch id dekhayna 

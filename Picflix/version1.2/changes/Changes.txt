@@ -1,0 +1,13 @@
+picflix v:1.2 :
+1. my project screen in added where shared not shared tasks will saved as project. each project will be numbered
+according to previous project number (like slide show number). each slide show project will be dated according to its last 
+creation. each projects are assembeled as thumbnail. user can create new slide show video from this screen against 
+'create new' 
+
+2. slide show edit/delete/share screen is added. user has to come only from any project thumbnail to this screen. this screen 
+has video play frame where created video is palyed with duration. it has 'sasve in HD','delete','edit','save to library','share'
+buttons.
+
+3. point 1 & point 2 are tested, some bugs found & all bugs are reported in bitbucket
+4. most of the tests are done in ipad & ipone 5s. did not get iphone x available much for testing
+5. both 2 new feature designs are tested

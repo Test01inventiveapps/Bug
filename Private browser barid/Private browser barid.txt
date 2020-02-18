@@ -1,0 +1,10 @@
+1. is apprv = 0 but rev unlock showing. -Done
+2.yearly % not matched with subs info -Done
+3.ad shows after review -Done
+4.subshome kaj korena(iphone)-Done
+5.ad crossbar problem.
+6.forward-backward problem.-Done
+7.banner ad remains after subscription.(ipad)
+8.iphone landscape problem
+7.banner ad remains after subscription.(ipad/iphone)
+9.lock screen e nicher bar e click korle crash kore (ipad)

@@ -1,0 +1,8 @@
+in this build the  bug was force review was hard coded. thats why nothing in description can be changed.
+the bug is fixed.
+extra col6 increament was being double for every save (value is 6, user can save 3)
+this bug is fixed.
+subs home tested for block/nonblock country and subs home value
+force review tested for block/nonblock country
+app is purchased after fore review
+if no force review is showed, os review is being showed instead

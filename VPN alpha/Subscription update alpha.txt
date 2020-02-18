@@ -1,0 +1,63 @@
+3/2/18: 1st build: 
+1. iphone X: onboadrding info- checked
+             cross button- checked
+             weekly button- checked
+             monthly button- checked
+             yearly button- checked
+             restore button- checked
+             terms button- checked
+             privacy policy- checked
+             
+             free trail button is used here to subscribe by sandbox@iapp.39, free trial is asked in popup message
+             - expired successfully 
+             monthly button is used here to subscribe by sandbox@iapp.39
+             - expired successfully
+              yearly button is used here to subscribe by sandbox@iapp.38  
+             - expired successfully           
+
+2. ipad:     onboadrding info- checked
+             cross button- checked
+             weekly button- checked
+             monthly button- checked
+             yearly button- checked
+             restore button- checked
+             terms button- checked
+             privacy policy- checked
+
+             free trail button is used here to subscribe by sandbox@iapp.38, free trial is asked in popup message
+             - expired successfully
+             monthly button is used here to subscribe by sandbox@iapp.38
+             - expired successfully
+             yearly button is used here to subscribe by sandbox@iapp.38, this subscription is done from free session expired subs page
+             - expired successfully
+
+3. ipod:     onboadrding info- checked
+             cross button- checked
+             weekly button- checked
+             monthly button- checked
+             yearly button- checked
+             restore button- checked
+             terms button- checked
+             privacy policy- checked
+
+             free trail button is used here to subscribe by sandbox@iapp.37, free trial is asked in popup message
+             - expired successfully
+             monthly button is used here to subscribe by sandbox@iapp.37
+
+5/2/2019:
+
+iphone X: free session shows after connection established
+          os review is showed after 24 hour of purchase and then every 24 hour later - checked. purchased was 11.99$ button
+
+iphone 6s:free session shows after connection established- checked
+          os review is showed after 24 hour of purchase and then every 24 hour later - checked. purchased was 9.99$ button
+
+ipad:    free session shows after connection established- checked
+          os review is showed after 24 hour of purchase and then every 24 hour later - checked. purchased was 35.99$ button
+
+restore button was checked from all devices.
+
+
+
+
+

@@ -1,0 +1,46 @@
+10/2/18: 1st build: 
+1. iphone X: onboadrding info- checked
+             cross button- checked
+             weekly button- checked
+             monthly button- checked
+             restore button- 
+             terms button- checked
+             privacy policy- checked
+             scroll down message- checked
+             subs info- checked
+             subs page and its all button pressed and check the action- checked
+
+          
+11/2/2018:    weekly button is subscribed and the sandbox id is sandbox@iapps.29
+                     
+
+2. ipad:     onboadrding info- checked
+             cross button- checked
+             weekly button- checked
+             monthly button- checked
+             yearly button- checked
+             restore button- checked
+             terms button- checked
+             privacy policy- checked
+
+           
+11/2/2018:   free trial button is subscribed and the sandbox id is sandbox@iapps.30
+             - expired successfully. premium purchase button replaced
+
+3. ipod:     onboadrding info- checked
+             cross button- checked
+             weekly button- checked
+             monthly button- checked
+             restore button- checked
+             terms button- checked
+             privacy policy- checked
+             scroll down message- checked
+             subs info- checked
+             subs page and its all button pressed and check the action- checked
+
+
+             api quick test was performed 
+
+
+
+

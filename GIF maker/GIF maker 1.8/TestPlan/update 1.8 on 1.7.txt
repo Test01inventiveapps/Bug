@@ -1,0 +1,5 @@
+1. app v1.7 updated on v1.8, no bug found. the saved files of 1.7 is saved here 1.8 in thumbnail. old version
+saved gif direct open share screen. saved gif of old version is saved here with last edited(edited from old version)
+2. a crash while loading in edit screen if save(way to share screen) is pressed is fixed. tested this with video, giphy
+   no bug found.  
+3. saved and share old version gif from new version gif. no bug found.

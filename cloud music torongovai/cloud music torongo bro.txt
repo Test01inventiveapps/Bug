@@ -1,0 +1,5 @@
+1. extra column 7 thik moto not working 
+3. ekta song/video thakle seta play obosthay delete korte gele dlt hobena
+ then animation btn e click korle crash kore
+4. auto renew er kotha subs page design e nai, app e ki thabe? 
+5. purchase er por settings e become premium button change hoyna + kono action kaj korena 

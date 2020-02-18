@@ -1,0 +1,44 @@
+13/2/18: 1st build: 
+1. iphone X: onboadrding info- checked
+             cross button- 
+             monthly button- checked
+             yearly button- checked
+             monthly free trial button- checked
+             restore button- checked
+             terms button- checked
+             privacy policy- checked
+             lets go screen>privaacy policy>vpn allow> vpn home screen- checked
+             
+             monthly free trial button is used here to subscribe by sandbox@iapp.27
+             -expired successfully 
+             monthly button is used here to subscribe by sandbox@iapp.27
+
+
+2. ipad:     onboadrding info- checked
+             cross button- 
+             monthly button- checked
+             yearly button- checked
+             monthly free trial button- checked
+             restore button- checked
+             terms button- checked
+             privacy policy- checked
+
+             monthly button is used here to subscribe by sandbox@iapp.26
+
+
+3. iphone 5s:onboadrding info- checked
+             cross button- 
+             monthly button- checked
+             yearly button- checked
+             monthly free trial button- checked
+             restore button- checked
+             terms button- checked
+             privacy policy- checked
+             lets go screen>privaacy policy>vpn allow> vpn home screen- checked
+             
+             yearly button is used here to subscribe by sandbox@iapp.25
+
+
+
+
+

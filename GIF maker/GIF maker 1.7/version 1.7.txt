@@ -1,0 +1,6 @@
+1. landscape and prtrait video theke GIF create kore save korle GIF choto hoe jeto sta solve hoise, save/share korle kono problem hoyna 
+2. ios 13 soho kisu bug silo seigula fix hoise 
+3. new requirment full screen ad add hoise, rishi vai er sathe bose chk hoise, server change koreo sob dhoroner test hoise. next 2 days por rishi vai er device
+   iOS 12 e chk hoise. no bug found.
+4. all kind of share screen e share button gulo press kore dekha hoise kono crash/bug hoy kina. all ok 
+5. purchase kora hoise,ios=12&13 e testflight theke namie + ios 12 e build nie purchase hoise purchase successful. drive e video ase

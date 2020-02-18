@@ -1,0 +1,4 @@
+1. force review show => rev_uk = && isApprv = 1 
+2. subs home show => subs home = 1 
+3. no cross button on subs home => extra column 4 = 1
+4. extra column 6 = limit of save video

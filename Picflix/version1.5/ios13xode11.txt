@@ -1,0 +1,6 @@
+1. details screen e design break hoy. -solved
+2. content downloading likhata thakena when kono cell theke theme download hoy same case for music track download -solved
+3. force review blank deyails ase -solved
+4. nich theke jsob screen(subs,see all,reorder,settings) uthe seigulo full screen cover korena-solved
+5. project list e thumbnail e date er color buja jayna 
+6. reorder e image er corner design misssing 

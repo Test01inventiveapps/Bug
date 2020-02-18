@@ -1,0 +1,2 @@
+only force review against qr scan(not from camera roll)
+bugs fixed 44,45,46

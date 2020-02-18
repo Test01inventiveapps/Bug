@@ -1,0 +1,13 @@
+live photo:
+1. GIF maker - take 14 sec to download in app
+   img player - take 17 sec to download in app
+
+still photo:
+1. GIF maker - take 0.8 sec to download in app
+   img player - take 1 sec to download in app
+screen shot:
+1. GIF maker - take sec to download in app
+   img player - take sec to download in app
+video:
+1. GIF maker - take sec to download in app
+   img player - take sec to download in app

@@ -1,0 +1,2 @@
+this version is tested i very short time. i found only 1 issue that is in landscape tab disappered in tab background.
+tested this app mostly in iphone x, only run the app in ipad for the lake of time.

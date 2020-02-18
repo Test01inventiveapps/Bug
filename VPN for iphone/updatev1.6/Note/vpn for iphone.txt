@@ -1,0 +1,3 @@
+vpn connection test:
+1. server address according to country -tested
+2. pin position according to country
